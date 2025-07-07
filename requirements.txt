@@ -1,1 +1,13 @@
-plotly
+# requirements.txt for Unified Streamlit Benchmark Dashboard v3
+
+# Core dependencies
+streamlit>=1.25.0
+pandas>=1.5.0
+plotly>=5.15.0
+
+# PDF generation
+reportlab>=3.6.12
+
+# Utilities
+datetime
+logging
